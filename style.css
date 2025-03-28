@@ -1,0 +1,84 @@
+button{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 10px;
+}
+input{
+    border: none;
+    border-radius: 10px;
+    padding: 7px;
+    margin: 0 auto;
+}
+.one{
+    margin: 0 auto;
+    height: 700px;
+    width: 400px;
+    background-color:rgb(102, 185, 53);
+    border-radius: 40px;
+    
+}
+.one input{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.one ul{
+    margin-left:100px;
+}
+.one button{
+    margin: 10px;
+}
+
+@media  (min-width:600px) {
+    h1{
+font-size: 100px;
+
+    }
+    p{
+        font-size: 30px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        
+    }
+    footer{
+        height: 100px;
+        width: 100%;
+        background-color: grey;
+        margin-top: 100px;
+        padding: 35px;
+       margin-left: -3px;
+       padding-bottom: 150px;
+    }
+    footer span{
+        font-size: 50px;
+    }
+    .one {
+     width: 800px;
+     height: 95rem;
+     margin-top: 70px;
+    }
+    .one input{
+        font-size: 44px;
+        border-radius: 25px;
+    }
+    .one button{
+        font-size:45px ; font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        border-radius: 25px;
+
+    }
+    .one ul{
+        font-size: 55px;font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+
+    }
+}
+h1{
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}

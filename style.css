@@ -60,11 +60,12 @@ font-size: 100px;
      margin-top: 70px;
     }
     .one input{
-        font-size: 44px;
+        font-size: 38px;
         border-radius: 25px;
+    
     }
     .one button{
-        font-size:45px ; font-family: "Poppins", sans-serif;
+        font-size:50px ; font-family: "Poppins", sans-serif;
         font-weight: 400;
         font-style: normal;
         border-radius: 25px;
